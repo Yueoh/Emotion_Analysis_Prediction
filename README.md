@@ -13,5 +13,5 @@ ARIMA————ARIMA时序预测
 Anaconda 
 python3.7
 sklearn
-Theno-keras
+Theano-keras
 ```
